@@ -42,6 +42,10 @@ const SITE_LINKS = {
 
     // --- GOOGLE PLACE ID ---------------------------------------------------
     googlePlaceId: 'ChIJl90Jb3QrCTkRkyqlCyJegcg',
+
+    // --- ONESCAN BRAND MARKETING --------------------------------------------
+    onescanInstagram: 'https://www.instagram.com/onescan360',
+    onescanEmail: 'onescan360@gmail.com',
 };
 
 // ===========================================================================
