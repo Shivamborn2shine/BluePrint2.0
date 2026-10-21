@@ -27,9 +27,9 @@ export const DEFAULT_STORE_DATA = {
         heroHandwriting: 'Good Food\nGood Vibes ✨',
         logoImg: './assets/images/blue-door/blue-door-sign.png',
         heroImg: './assets/images/blue-door/hero-food-collage.jpg',
-        rating: 4.9,
+        rating: 4.2,
         ratingStars: '★★★★★',
-        ratingCountText: '1,240+ Google Reviews',
+        ratingCountText: '110+ Google Reviews',
         badgeText: 'Top Rated Cafe'
     },
 
